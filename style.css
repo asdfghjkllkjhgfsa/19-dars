@@ -1,0 +1,50 @@
+.body{
+    background-color: burlywood;
+}
+
+h1{
+    text-align: center;
+}
+
+.text-yellow{
+    color: yellow;
+}
+
+.links{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.top{
+    display: flex;
+    gap: 100px;
+}
+
+.box{
+    background-color: black;
+    color: white;
+}
+
+h4{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+img{
+    width: 100%;
+    width: 300px;
+height: 140px;
+top: 173px;
+left: 166px;
+gap: 0px;
+opacity: 0px;
+}
